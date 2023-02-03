@@ -7,7 +7,7 @@
 
 >## Growth Mindset
 >
->> To me "growth mindset" means taking on a mindset to push through things that might be challenging or seem difficult at first glance. In another words it's teaching yourself to love learning and not letting the fear. 
+To me "growth mindset" means taking on a mindset to push through things that might be challenging or seem difficult at first glance. In another words it's teaching yourself to love learning and not letting the fear. 
 
 
 > ## Three "growth mindset" reminders

@@ -53,27 +53,43 @@
           *Example* :
           
            > this would be your paragraph
-       - Blockquotes can be layered or nested by adding >> in front of the paragraph
+       - Blockquotes can be layered or nested by adding >> in front of the paragraph.
    
    
     
   - Lists
-    - Lists can be ordered or unordered list and you can add elements
-    - 
+    - Lists can be ordered or unordered list and you can add elements.
+    - You can use numbers or characters to make a list.
      
-         *Example :
-            
+        *Example* :
+        
+       
+         
+           Ordered 
+           
             1.notes. = 1.notes
             2.notes. = 2.notes
             3.notes. = 3.notes
 
-            or
-            
-     - notes =  notes
-     * notes
-     + notes 
-   
+            or...
+           
+         ( ' = code block)
+         > Unordered      
+         >  - notes =  '- notes
+         >  * notes =  '* notes
+         >  + notes =  '+ notes
    
    - Links
-   - 
+    - When creating a link make sure to enclose the kkink text in brackets followed by a URL in parenthesis
+    - To turna URL or an email quicly into a link without a title or name you can enclose it with angle brackets 
+
+         *Example* :
+         
+          A good search engine is [Google](https://google.com).
+          
+          or
+          
+          <https://google.com>
+
+  
           

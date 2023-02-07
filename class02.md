@@ -8,8 +8,6 @@
 
 ## read02 notes
 
-  + Document in your reading-notes the different classifications of text editors, and why it’s important for software developers to be thoughtful about their selection of what they use to write code.
-  
   + *Choosing A Text Editor*
                         
 > Choosing a text editor can be a very personal preference. 

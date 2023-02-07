@@ -13,7 +13,7 @@
  + [**class01**](https://sambow7.github.io/reading-notes/class01)
       + [**class01.1**](https://sambow7.github.io/reading-notes/class01.1)
  
- + [**class02**]()
+ + [**class02**](https://sambow7.github.io/reading-notes/class02)
  
  + [**class03**]()
  

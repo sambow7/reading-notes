@@ -1,24 +1,28 @@
 # class03 notes
 
 ## lab03 notes
-
-  + git clone 
-    + coned on to computer 
+  
+ + git clone 
+   + cloned on to computer 
   
   + gtiflow: ACP! (Add, Commit, Push)
+    + git status = will help you know where you are at.
                  
            git status
     
-    + Add =
+    + Add = snapshot of file, tells git what changes we need to commit
              
-           git add 
+           git add file
    
-    + Commit = 
+    + Commit = take the actual snapshot
    
-          git commit
+          git commit -m ""
    
-   + Push = 
+     + -m = (flag) specifies the message includded wit the commit (caption of snap shot)
    
-          git push 
+   
+   + Push = syncs code to your repo on GitHub
+   
+          git push origin main
 
 ## read03 notes

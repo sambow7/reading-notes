@@ -28,7 +28,7 @@
 
 ## read03 notes
 
-> ### Git Tutorial
+### <u>Git Tutorial</u>
 
   + **VCS** = Version Control Systems.
 
@@ -54,7 +54,7 @@
 
        ![Image of WP](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
 
-### Setting up a Git Respository
+### <u>Setting up a Git Respository</u>
 
    **Cloning** 
   + create a copy of an exisiting Git respository from a particular server by using the command with a repository URL: 
@@ -63,9 +63,9 @@
        
        + git clone "URL" "name of directory"
 
-### Workflow
+### <u>Workflow</u>
 
-   **Local Repository Structure**
+**Local Repository Structure**
    1. Working Directory = the actual working file
    
    2. Index = area used for staging 

@@ -1,7 +1,7 @@
 # class01.1 notes
 
 ## Markdown Basic Syntax
-  - Headings
+- Headings
     - The number of number signs you use should correspond to the heading level.
     - You can use up to six number signs to create a heading. 
     - The more number signs gives you a smaller heading and a lower number of number signs will give you a larger heading size.
@@ -17,7 +17,7 @@
   
 - Paragraphs
      - Unless the paragraph is in a list do not indent with spaces or tab.
-    - Use a blank line to separate one or more lines of text.
+     - Use a blank line to separate one or more lines of text.
 
          *Example* :
                 

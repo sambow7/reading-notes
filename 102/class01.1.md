@@ -15,8 +15,8 @@
    You can use trailing whitespace to create line breaks, and you can use tabs to create code blocks. 
    But what if you need to indent a paragraph the old-fashioned way, using the tab key? Markdown doesn’t provide an easy way of doing that.
   
-  - Paragraphs
-    - Unless the paragraph is in a list do not indent with spaces or tab.
+- Paragraphs
+     - Unless the paragraph is in a list do not indent with spaces or tab.
     - Use a blank line to separate one or more lines of text.
 
          *Example* :

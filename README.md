@@ -1,8 +1,8 @@
 # My Code Fellows Journal
 
-  + [Github portfolio](https://github.com/sambow7)
++ [Github portfolio](https://github.com/sambow7)
 
-  + <samhbowen@gmail.com>
++ <samhbowen@gmail.com>
 
 ## **Intro**
   
@@ -10,30 +10,30 @@
 
 ## **Code 102 Reading Notes**
 
- + [**class01**](102/class01.md)
-     
-      + [**class01.1**](102/class01.1)
++ [**class01**](102/class01.md)
  
- + [**class02**](102/class02.md)
++ [**class01.1**](102/class01.1)
  
- + [**class03**](102/class03.md)
++ [**class02**](102/class02.md)
  
- + [**class04**](102/class04.md)
++ [**class03**](102/class03.md)
  
- + [**class05**](102/class05.md)
- g
- + [**class06**](102/class06.md)
++ [**class04**](102/class04.md)
  
- + [**class07**](102/class07.md)
++ [**class05**](102/class05.md)
+
++ [**class06**](102/class06.md)
  
- + [**class08**](102/class08.md)
++ [**class07**](102/class07.md)
  
- + [**class09**](102/class09.md)
++ [**class08**](102/class08.md)
  
- + [**class10**](102/class10.md)
++ [**class09**](102/class09.md)
+ 
++ [**class10**](102/class10.md)
 
 ## **Code 201 Reading Notes**
 
- + [**class01**](201/class01.md)
++ [**class01**](201/class01.md)
 
- + [**class02**](201/class02.md)
++ [**class02**](201/class02.md)

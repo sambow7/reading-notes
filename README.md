@@ -14,23 +14,23 @@
      
       + [**class01.1**](102/class01.1)
  
- + [**class02**](102/class02)
+ + [**class02**](102/class02.md)
  
- + [**class03**](102/class03)
+ + [**class03**](102/class03.md)
  
- + [**class04**](102/class04)
+ + [**class04**](102/class04.md)
  
- + [**class05**](102/class05)
+ + [**class05**](102/class05.md)
+ g
+ + [**class06**](102/class06.md)
  
- + [**class06**](102/class06)
+ + [**class07**](102/class07.md)
  
- + [**class07**](102/class07)
+ + [**class08**](102/class08.md)
  
- + [**class08**](102/class08)
+ + [**class09**](102/class09.md)
  
- + [**class09**](102/class09)
- 
- + [**class10**](102/class10)
+ + [**class10**](102/class10.md)
 
 ## **Code 201 Reading Notes**
 

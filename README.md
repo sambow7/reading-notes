@@ -12,25 +12,25 @@
 
  + [**class01**](102/class01.md)
      
-      + [**class01.1**](https://sambow7.github.io/reading-notes/102/class01.1)
+      + [**class01.1**](102/class01.1)
  
- + [**class02**](https://sambow7.github.io/reading-notes/102/class02)
+ + [**class02**](102/class02)
  
- + [**class03**](https://sambow7.github.io/reading-notes/102/class03)
+ + [**class03**](102/class03)
  
- + [**class04**](https://sambow7.github.io/reading-notes/102/class04)
+ + [**class04**](102/class04)
  
- + [**class05**](https://sambow7.github.io/reading-notes/102/class05)
+ + [**class05**](102/class05)
  
- + [**class06**](https://sambow7.github.io/reading-notes/102/class06)
+ + [**class06**](102/class06)
  
- + [**class07**](https://sambow7.github.io/reading-notes/102/class07)
+ + [**class07**](102/class07)
  
- + [**class08**](https://sambow7.github.io/reading-notes/102/class08)
+ + [**class08**](102/class08)
  
- + [**class09**](https://sambow7.github.io/reading-notes/102/class09)
+ + [**class09**](102/class09)
  
- + [**class10**](https://sambow7.github.io/reading-notes/102/class10)
+ + [**class10**](102/class10)
 
 ## **Code 201 Reading Notes**
 

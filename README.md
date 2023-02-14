@@ -8,6 +8,8 @@
   
   > Hello everyone. My name is Sam and I am new to software development. I currently live in Seattle and have been for the last 20 years. When I'm not playing video games or practicing code I like to be outside and enjoy the beautiful nature that sorrounds me in Washington.
 
+## [**Class Thoughts and Observations**](class_thoughts_folder/class_thoughts.md)
+
 ## **Code 102 Reading Notes**
 
 + [**class01**](102/class01.md)

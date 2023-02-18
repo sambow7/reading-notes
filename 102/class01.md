@@ -12,9 +12,5 @@
 >    - Setting small goals inside a big goal will help keep the process going. 
 > 2. Don't avoid obsticales 
 >    - Viewing obstacles as opportunities instead of struggles provides a healthy mindset for growth
-> 3. Embrace fa ilure
+> 3. Embrace failure
 >    - Learning to be ok with failure and not avoiding failure helps you learn from the failure and provides an oppurtunity for growth. 
-
-## ***Things I want to know more about...***
-
- *

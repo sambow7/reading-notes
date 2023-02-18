@@ -1,5 +1,7 @@
 # My Code Fellows Journal
 
+![image](/Users/samuelbowen/Downloads/images/lindsaysam_engaged-57.jpg)
+
 + [Github portfolio](https://github.com/sambow7)
 
 + <samhbowen@gmail.com>

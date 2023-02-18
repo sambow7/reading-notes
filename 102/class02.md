@@ -31,8 +31,3 @@
   +  .. = (dotdot) reference to parent directory
   +  ls -a = list the contents of a directory, inluding fidden files
   +  file --help = more inforamtion 
-
-## *Things I want to know*
-  
-  +
-  

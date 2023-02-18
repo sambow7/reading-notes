@@ -80,8 +80,9 @@
          >  + notes =  '+ notes
    
    - Links
-    - When creating a link make sure to enclose the kkink text in brackets followed by a URL in parenthesis
-    - To turna URL or an email quicly into a link without a title or name you can enclose it with angle brackets 
+    
+      - When creating a link make sure to enclose the link text in brackets followed by a URL in parenthesis
+      - To turna URL or an email quicly into a link without a title or name you can enclose it with angle brackets 
 
          *Example* :
          
@@ -90,9 +91,3 @@
           or
           
           <https://google.com>
-         
-         
-## ***Things I want to know more about...***
-
- *
-

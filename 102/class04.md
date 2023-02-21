@@ -30,20 +30,76 @@
 
 + Attributes = more information with in an element
 
-+ Void Elements = elements with no content. For example a <img element.
++ Void Elements = elements with no content. For example a img element.
 
 ### HTML Anatomy
 
-+ Doctype - acts as a link to a set of rules. ex. (<! DOCTYPE html>)
++ Doctype - acts as a link to a set of rules. ex.
+!DOCTYPE html
 
-+ (< html>< /html>) - the html element wraps all the content on the entire page and also known as the root element.
++ html - root element - the html element wraps all the content on the entire page and also known as the root element.
 
 + meta charset="utf-8" - This element sets the character set your document should use to UTF-8 which includes most characters from the majority of written languages
 
-+ Viewpoint element - this makes sure the webpage doesnt got wider than the window when viewing on mobile devices.
++ viewpoint element - this makes sure the webpage doesnt got wider than the window when viewing on mobile devices.
 
 + title - this sets the title of the page on the browser.
 
 + body - this contains all the contetnt that you want to show to web users when viewing your page.
 
-+ 
+### Images
+
++ img - embeds an image into our website though a src attribute and also alt attribute. 
+  
+  + For example people with certain impairments may use "descripitve text" because they cannot see the image.
+
+## Marking Up Text
+
+### Headings 
+
++ HTML has 6 headings h1-h6 (large-small) 
+  
+  + h1 - main title
+  + h2 - top level heading
+  + h3 - subheading
+  + h4 - sub-subheading
+
+### Paragraphs
+
++ p = paragraph - frequently used
+
++ use to caption an img 
+
+### Lists
+ 
+ + li = list - marking up a list always has two elements 
+
+    + ul = unordered list - order of list doesnt matter
+
+    + ol = ordered lists - order of list does matter,
+
+### Links 
+
++ a = anchor - to make text within your paragraph into a link. 
+
++ a href="link goes here" > descriptive text here
+
+# Wireframe
+
++ wireframing is a practice used to design a website layout
+
++ before wireframing you can scetch first to get an idea of the layou you want
+
++ do research before and what do customers want, what is popular, what are other designs using?
+
++ ddoing pre research allows you to have a quick reference on content.
+
++ map out the flow to keep things organized 
+
++ Three key pricipals 
+
+  1.Clarity - the frame should answer questions clearly
+
+  2. Confidence - ease of navigation allows the user to feel comfortable to use the site
+
+  3. Simplicity - dont overload links, copy, and information.

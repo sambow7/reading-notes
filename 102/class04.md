@@ -94,12 +94,24 @@
 
 + ddoing pre research allows you to have a quick reference on content.
 
-+ map out the flow to keep things organized 
++ map out the flow to keep things organized
 
-+ Three key pricipals 
++ Three key pricipals
 
-  1.Clarity - the frame should answer questions clearly
+  1. Clarity - the frame should answer questions clearly
 
   2. Confidence - ease of navigation allows the user to feel comfortable to use the site
 
   3. Simplicity - dont overload links, copy, and information.
+
+### *References*
+
+[Mozilla HTML Basics](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+[Wiredrame and Desing](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
+
+[Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+
+[Mozilla HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+[Google Drawing](https://docs.google.com/drawings/d/1O9XUoFweM4iDFWexVEVGhyW4kZUO4DN9ABLx_bo8nas/edit)

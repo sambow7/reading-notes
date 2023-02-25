@@ -1,6 +1,6 @@
 # My Code Fellows Journal
 
- ![profile](/images/lindsaysam_engaged-57.png)
+ ![profile](/downloads/images/profile_picture.jpg)
 
 + [Github portfolio](https://github.com/sambow7)
 

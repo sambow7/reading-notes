@@ -1,6 +1,6 @@
 # My Code Fellows Journal
 
- ![profile](/downloads/images/profile_picture.jpg)
+ ![profile](/profile_picture.jpg)
 
 + [Github portfolio](https://github.com/sambow7)
 

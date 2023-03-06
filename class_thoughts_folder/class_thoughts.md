@@ -4,7 +4,7 @@
 
 **Questions**
 
-1.
+1. How to add a picture to a website in VS code?
 2.
 
 **Thoughts**
@@ -18,3 +18,11 @@ Markdown:
 Text Editor:
 
 > Choosing a text editor seems to be a mix of your level of programing or project and personal preference. I like Visual Studio Code so far. It seems to work well with my operating system and has some great themes to make things stand out. Just like all the new tools I have downloaded in this class they all have lots of functions that seem to help simplify and make workflow easier. Refer to [class02 notes](102/class02.md) for cheat sheet reference.
+
+HTML:
+
+> Known as Hyper Text Markup Language html is used to structure your webpage. Before you start typing up your code you want to come up with a basic layout and idea of how you want your users to navigate your website. **Wireframing** will help you get a rough idea of how things will fit together. This helps save a lot of time and allows your client communicate what they are loooking for.
+
+CSS:
+
+> Cascading Style Sheets is another layer to your webpage to add color and style on top your html. 

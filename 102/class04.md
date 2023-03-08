@@ -4,9 +4,9 @@
 
 ##
 
-+ 
++
 
-+ 
++
 
 ## read04 notes
 
@@ -18,7 +18,7 @@
 
 + Semantic elements are the name of the tag represents the purpose of the tage - the meaning.
 
-    + Example: < h1 > element gives the text it wraps around the role (or meaning) of "a top level heading on your page."
+  + Example: < h1 > element gives the text it wraps around the role (or meaning) of "a top level heading on your page."
 
 + Element = used to wrap certain content to make it appear a certain way.
 
@@ -51,15 +51,15 @@
 
 ### Images
 
-+ img - embeds an image into our website though a src attribute and also alt attribute. 
++ img - embeds an image into our website though a src attribute and also alt attribute.
   
   + For example people with certain impairments may use "descripitve text" because they cannot see the image.
 
 ## Marking Up Text
 
-### Headings 
+### Headings
 
-+ HTML has 6 headings h1-h6 (large-small) 
++ HTML has 6 headings h1-h6 (large-small)
   
   + h1 - main title
   + h2 - top level heading
@@ -70,19 +70,19 @@
 
 + p = paragraph - frequently used
 
-+ use to caption an img 
++ use to caption an img
 
 ### Lists
- 
- + li = list - marking up a list always has two elements 
 
-    + ul = unordered list - order of list doesnt matter
++ li = list - marking up a list always has two elements
 
-    + ol = ordered lists - order of list does matter,
+  + ul = unordered list - order of list doesnt matter
 
-### Links 
+  + ol = ordered lists - order of list does matter,
 
-+ a = anchor - to make text within your paragraph into a link. 
+### Links
+
++ a = anchor - to make text within your paragraph into a link.
 
 + a href="link goes here" > descriptive text here
 

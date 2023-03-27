@@ -10,7 +10,7 @@
 
   + conditional - a set of rules that can interrupt normal code execution or change it, depending on whether the condition is completed or not.
 
-        ex.  if (isEmpty(field)) {
+       ex.  if (isEmpty(field)) {
               promptUser();
             } else {
               submitForm();

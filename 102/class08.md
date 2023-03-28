@@ -40,7 +40,7 @@
 
   5. Control returns to Step 2.
 
-+ While statement - A while statement executes its statements as long as a specified condition evaluates to true. (ALWAYS MAKE CONDITION EVENTUALLY FALSE. INFINITE LOOPS ARE BAD!)
++ A **while** statement - A while statement executes its statements as long as a specified condition evaluates to true. (ALWAYS MAKE CONDITION EVENTUALLY FALSE. INFINITE LOOPS ARE BAD!)
 
 Answer:
 
